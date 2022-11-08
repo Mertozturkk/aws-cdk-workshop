@@ -24,3 +24,4 @@ class CdkWorkshopStack(Stack):
             self, 'Endpoint',
             handler=my_lambda
         )
+print()
